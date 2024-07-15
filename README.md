@@ -1,4 +1,4 @@
-# Gmail API Extension
+# Gmail API Extensio
 
 This project is a Node.js application that interacts with the Gmail API, allowing users to perform various operations on their Gmail account through a command-line interface.
 
@@ -19,7 +19,7 @@ This project is a Node.js application that interacts with the Gmail API, allowin
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/gmail-api-extension.git
+   git clone https://github.com/toniilic/gmail-api-extension.git
    cd gmail-api-extension
    ```
 

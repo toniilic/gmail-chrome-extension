@@ -19,7 +19,7 @@ This project is a Node.js application that interacts with the Gmail API, allowin
 
 1. Clone the repository:
    ```
-   git clone https://github.com/toniilic/gmail-api-extension.git
+   git clone https://github.com/toniilic/gmail-chrome-extension.git
    cd gmail-api-extension
    ```
 
